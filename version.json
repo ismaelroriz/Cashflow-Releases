@@ -3,6 +3,6 @@
   "versionName": "1.1.25",
   "packageName": "com.caixinhas.app",
   "apkUrl": "https://github.com/ismaelroriz/Cashflow-Releases/releases/download/v1.1.25/cashflow.apk",
-  "sha256": "cd1e3cdd149d09f041ad9d34f9ad3c34fbecdf0b9ce855057f90bf1c7156f52",
-  "manifestRevision": 2
+  "sha256": "cd1e3cdd149d09f041ad9d34f9ad3c34fb6ecdf0b9ce855057f90bf1c7156f52",
+  "manifestRevision": 3
 }
