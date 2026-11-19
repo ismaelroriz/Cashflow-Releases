@@ -1,7 +1,7 @@
 {
-  "versionCode": 72,
-  "versionName": "2.5.1",
+  "versionCode": 73,
+  "versionName": "2.5.2",
   "packageName": "com.caixinhas.app",
-  "apkUrl": "https://github.com/ismaelroriz/Cashflow-Releases/releases/download/v2.5.1/cashflow.apk",
-  "sha256": "8d7a2b52164890aac19adfe2ff67a7c46de01977bf9144dc3a9bdae68337db38"
+  "apkUrl": "https://github.com/ismaelroriz/Cashflow-Releases/releases/download/v2.5.2/cashflow.apk",
+  "sha256": "97b38faf44b9f506e29cf59f9885d6034abaa1d5a6ec4a517cf3625d33023f29"
 }
